@@ -1,0 +1,24 @@
+_repo: The-value-of-a-praying-mother_12042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byrum, Isabel C. (Isabel Coston)
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '4193'
+    url: http://www.gutenberg.org/2009/agents/4193
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Prayer'
+- GITenberg
+title: The value of a praying mother
+url: http://www.gutenberg.org/ebooks/12042
